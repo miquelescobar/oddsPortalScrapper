@@ -1,5 +1,4 @@
 # Module that contains classes and functions related with oddsPortal website
-# Classes: league, game (to add: team, country, sport)
 
 
 ####################################################################################################
