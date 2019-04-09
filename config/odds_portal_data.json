@@ -1,0 +1,57 @@
+{
+    "parent_url":        "http://www.oddsportal.com/",
+    "password":          "Iwi11win",
+    "soccer_parent_url": "http://www.oddsportal.com/soccer/",
+    "user":              "anynycticebus",
+    "login_url":         "http://www.oddsportal.com/login/",
+    "date_pattern":      "\\d{2} \\w{3}, \\d{2}:\\d{2}",
+    
+    "bet_types_props": {
+        "1X2": {
+            "type": 1, "url_aux": "1X2", "columns": ["1","X","2"]
+        },
+        "Home/Away": {
+            "type": 1, "url_aux": "home-away", "columns": ["1","2"]
+        },
+        "Draw No Bet": {
+            "type": 1, "url_aux": "dnb", "columns": ["1","2"]
+        },
+        "Double Chance": {
+            "type": 1, "url_aux": "double", "columns": ["1X","12","X2"]
+        },
+        "To Qualify": {
+            "type": 1, "url_aux": "qualify", "columns": ["1","2"]
+        },
+        "Odd or Even": {
+            "type": 1, "url_aux": "odd-even", "columns": ["Odd","Even"]
+        },
+        "Both Teams to Score": {
+            "type": 1, "url_aux": "bts", "columns": ["Yes","No"]
+        }, 
+        "Half Time / Full Time": {
+            "type": 2, "url_aux": "ht-ft", "columns": ["Odds"], "td": 2
+        },
+        "Asian Handicap": {
+            "type": 2, "url_aux": "ah", "columns": ["1","2"], "td": 3
+        }, 
+        "Over/Under": {
+            "type": 2, "url_aux": "over-under", "columns": ["Over","Under"], "td": 3
+        },
+        "European Handicap": {
+            "type": 2, "url_aux": "eh", "columns": ["1","X","2"], "td": 3
+        }, 
+        "Correct Score": {
+            "type": 2, "url_aux": "cs", "columns": ["Odds"], "td": 2
+        }
+    },
+    
+    "bookmakers": [
+        "18bet", "bwin", "1xBet", "Coolbet", "5Dimes", "Marathonbet", "Asianodds", "Matchbook", "bet-at-home", 
+        "Pinnacle", "bet365", "Unibet", "Bethard", "William Hill", "10Bet", "12BET", "188BET", "22Bet", 
+        "888sport", "Betclic", "Betfair", "Betfair Exchange", "Betfred", "BetJOE", "Betsafe", "Betsson", 
+        "BetVictor", "Betway", "BoyleSports", "ComeOn", "Dafabet", "Expekt", "Intertops", "Interwetten", 
+        "Jetbull", "KTO", "Leonbets", "NordicBet", "Oddsring", "SBOBET", "Sportingbet", "Titanbet", "Vernons",
+        "youwin", "bwin.es", "Interwetten.es", "Sportium.es"
+    ]
+    
+}

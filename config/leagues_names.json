@@ -1,0 +1,38 @@
+{
+    "England": {
+        "1": {
+            "2007": "premier-league"
+        }
+    },
+    "France": {
+        "1": {
+            "2007": "ligue-1"
+        }
+    },
+    "Germany": {
+        "1": {
+            "2007": "bundesliga"
+        }
+    },
+    "Italy": {
+        "1": {
+            "2007": "serie-a"
+        }
+    },
+    "Netherlands": {
+        "1": {
+            "2007": "eredivisie"
+        }
+    },
+    "Portugal": {
+        "1": {
+            "2007": "primeira-liga"
+        }
+    },
+    "Spain": {
+        "1": {
+            "2007": "primera-division",
+            "2016": "laliga"
+        }
+    }
+}
